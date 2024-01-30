@@ -3,13 +3,21 @@
 Descrition : A cross platform mobile app that manages the relation between the doctors and their patients built using the flutter framework
 
 Dependencies :
+
   get: ^4.6.5 (for state managment and routing and helpful utils)
+  
   flutter_svg: ^2.0.9 (to show svg pictures)
+  
   flutter_rating_bar: ^4.0.1 (to implement rating bar)
+  
   flutter_animate: ^4.3.0 (to implement simple animations)
+  
   google_maps_flutter: ^2.5.0 (to access and show the doctor location)
+  
   table_calendar: ^3.0.9 (to implement appointment calender)
+  
   flutter_otp_text_field: ^1.1.1 (to implement the verification code OTP text field)
+  
   image_picker: ^1.0.7 (to export profile image from the gallery)
 
 Tips :
